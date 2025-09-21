@@ -82,19 +82,19 @@ This project is developed as part of the **Naan Mudhaval Initiative**, demonstra
 ## 👥 Team Members  
 
 ### **Team Leader**  
-- **Travis Felix Peter **  
+- **Travis Felix Peters **  
   📧 Email: [Travis6344@gmail.com](mailto:Travis6344@gmail.com)  
 
 ### **Team Members**  
-1️⃣ **zayed hussain**  
+1️⃣ **A.Zayed hussain**  
    📧 Email: [zayedhussain303@gmail.com](mailto:zayedhussain303@gmail.com)  
 
-2️⃣ **San Mathew**  
-   📧 Email: [San Mathew64@gmail.com](mailto:SanMathew64@gmail.com)  
+2️⃣ **M.San Mathew**  
+   📧 Email: [SanMathew64@gmail.com](mailto:SanMathew64@gmail.com)  
 
-3️⃣ **Elas**  
+3️⃣ **B.ELAMARAN**  
    📧 Email: [eala0026@gmail.com](mailto:eala0026@gmail.com)  
-   **Bill Clinton**  
+   **J.Bill Clinton**  
    📧 Email: [clintonbill76329@gmail.com](mailto:clintontonbill76329@gmail.com)  
 
 ---
