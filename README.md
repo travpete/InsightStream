@@ -67,4 +67,37 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
+## 📌 Project Overview  
+**InsightStream** is an innovative, AI-powered news aggregation platform that delivers personalized, real-time news updates to users. It curates top stories from multiple sources, ensuring a seamless and enriched news consumption experience.  
+
+This project is developed as part of the **Naan Mudhaval Initiative**, demonstrating the power of **technology and AI-driven automation** in transforming the way news is accessed.
+## 🚀 Features  
+🔹 **Personalized News Feed** - AI-powered news categorization for tailored content  
+🔹 **Trending & Top Stories** - Highlighting the latest breaking news and trending topics  
+🔹 **Multi-Category Filtering** - Browse news by Business, Technology, Politics, Health, and more  
+🔹 **Real-Time API Integration** - Fetches up-to-date articles from trusted sources  
+🔹 **Newsletter Subscription** - Allows users to subscribe for daily/weekly news updates  
+🔹 **Responsive & User-Friendly UI** - Accessible across devices for an enhanced user experience  
+
+## 👥 Team Members  
+
+### **Team Leader**  
+- **Travis Felix Peter **  
+  📧 Email: [Travis6344@gmail.com](mailto:Travis6344@gmail.com)  
+
+### **Team Members**  
+1️⃣ **zayed hussain**  
+   📧 Email: [zayedhussain303@gmail.com](mailto:zayedhussain303@gmail.com)  
+
+2️⃣ **San Mathew**  
+   📧 Email: [San Mathew64@gmail.com](mailto:SanMathew64@gmail.com)  
+
+3️⃣ **Elas**  
+   📧 Email: [eala0026@gmail.com](mailto:eala0026@gmail.com)  
+   **Bill Clinton**  
+   📧 Email: [clintonbill76329@gmail.com](mailto:clintontonbill76329@gmail.com)  
+
+---
+
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
